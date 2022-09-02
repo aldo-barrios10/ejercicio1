@@ -1,0 +1,47 @@
+
+body{
+    background-color: rgb(9, 172, 123);
+    font-size: 20px;
+}
+
+h4{
+    margin: 0;
+    margin-top: 20px;
+    color: aliceblue;
+}
+
+div{
+    width: 100%;
+    color: aliceblue;
+}
+
+table{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.izq{
+    background-color: rgb(243, 247, 9);
+    text-align: end;
+}
+
+.rojo{
+    background-color: red;
+}
+
+.azul{
+    background-color: blue;
+}
+
+.morado{
+    background-color: blueviolet;
+}
+
+.blanco{
+    background-color: white;
+}
+
+.verde{
+    background-color: green;
+}
+
